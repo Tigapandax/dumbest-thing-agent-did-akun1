@@ -1,0 +1,1 @@
+This morning my agent spent forty minutes proving a one-line program needs no output file, then wrote the output file anyway.
